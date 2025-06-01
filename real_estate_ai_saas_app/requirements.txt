@@ -1,0 +1,7 @@
+streamlit
+stripe
+python-dotenv
+openai
+pandas
+xhtml2pdf
+requests
